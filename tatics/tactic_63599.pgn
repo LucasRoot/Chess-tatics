@@ -1,0 +1,15 @@
+[Event "Online Chess"]
+[Site "Chess.com"]
+[Date "2008.12.07"]
+[Round "1"]
+[White "djeasycee"]
+[Black "Swakefield"]
+[FEN "r1b1kbnr/ppp2ppp/2n5/3pP3/8/5N2/PqPBPPPP/RN1QKB1R w KQkq -"]
+[Delta "5.14"]
+[Score "-5.24"]
+[Full "Bb4 8. Bxb4 Nxb4 "]
+[Moves "2"]
+[CurrentPosition "r1b1kbnr/ppp2ppp/2n5/3pP3/8/5N2/PqPBPPPP/RN1QKB1R w KQkq -"]
+[SetUp "1"]
+
+7.Bc3 ( { 12:-5.40 } 7.Bc3 Bb4 8.Bxb4 Nxb4 9.Na3 Qxa3 10.Rb1 Qc3+ 11.Qd2 Nxc2+ 12.Kd1 Qxd2+ 13.Kxd2 Na3 14.Rb3 Nc4+ 15.Ke1 ) ( { 12:+0.31 } 7.Nc3 Nb4 8.Nd4 a6 9.Rb1 Qa3 10.Rb3 Qa5 11.a3 Nc6 12.Nxc6 bxc6 ) ( { 12:-4.32 } 7.Na3 Qxa3 8.e3 Bg4 9.Be2 O-O-O 10.Rb1 Bxf3 11.Bxf3 Nxe5 12.O-O Nxf3+ 13.Qxf3 Qxa2 ) ( { 12:-5.10 } 7.e6 Qxa1 8.exf7+ Kxf7 9.e4 Bg4 10.Ng5+ Kg6 11.f3 Bd7 12.exd5 Qe5+ 13.Qe2 Qxd5 14.Nc3 ) 7...Bb4 ( { 12:-5.47 } 7...Bb4 8.Bxb4 Nxb4 9.Na3 Qxa3 10.Rb1 c5 11.Rb3 Qxa2 12.Rc3 Qa5 13.e3 ) ( { 12:-0.26 } 7...Qb6 8.e3 Bb4 9.a3 Bxc3+ 10.Nxc3 Bg4 11.Be2 Qa5 12.Qd2 Nge7 13.h3 Bf5 ) ( { 12:+0.65 } 7...Qb5 8.e4 Qa4 9.exd5 Nb4 10.e6 Nf6 11.exf7+ Kxf7 12.Ne5+ Kg8 13.Bd3 Nxd3+ 14.Qxd3 Qe4+ 15.Qxe4 Nxe4 ) 8.Bxb4 ( { 12:-5.49 } 8.Bxb4 Nxb4 9.Na3 Qxa3 10.Rb1 Ne7 11.Rb3 Qa5 12.Qd2 Nxc2+ 13.Kd1 Qxd2+ 14.Kxd2 Na1 15.Rb4 ) ( { 12:-5.58 } 8.Nfd2 Bxc3 9.Nxc3 Nb4 10.Rc1 Qxc3 11.e4 Ne7 12.a3 Qxa3 13.Bb5+ c6 14.Ra1 ) ( { 12:-5.99 } 8.e3 Qxa1 9.Bxb4 Nxb4 10.Bb5+ c6 11.a3 cxb5 12.axb4 Bg4 13.c3 Bxf3 14.gxf3 ) 8...Nxb4 ( { 12:-5.60 } 8...Nxb4 9.Na3 Qxa3 10.Rb1 Nxa2 11.Rb3 Qa5+ 12.Qd2 Qxd2+ 13.Nxd2 Ne7 14.e4 O-O 15.f4 ) ( { 12:-2.71 } 8...Qxa1 9.Bd2 Qxa2 10.Nc3 Qa5 11.e4 dxe4 12.Nxe4 Qd5 13.Nc3 Qe6 14.Bb5 ) ( { 12:-1.42 } 8...Qxb4+ 9.Nbd2 Qc3 10.e3 Nxe5 11.Nxe5 Qxe5 12.Bb5+ c6 13.Be2 Nf6 14.O-O O-O 15.Rb1 ) 
